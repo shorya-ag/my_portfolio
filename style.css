@@ -1,0 +1,277 @@
+html,body{
+    padding:0;
+    margin:0;
+}
+.navbar{
+    background-color:antiquewhite ;
+    
+}
+.navbar a{
+    margin-right: 50px;
+}
+.navbar a:hover{
+    background-color:antiquewhite ;
+    color:rgb(12, 0, 0);
+}
+
+header{
+    display: flex;
+    justify-content:center;
+    padding:50;
+    margin:50;
+    height:50vh;
+    background-color: rgb(6, 49, 35);
+    
+    color:azure
+    
+    
+}
+
+.image{
+    padding:0px 10px;
+    margin: 25px;
+}
+.head{
+    padding:30px 30px;
+    margin:30px;
+}
+.about h1{
+    text-align: center;
+    background-color: rgb(229, 150, 46);
+}
+.about p{
+    padding:0px 10px;
+    font-size:25px;
+    text-align: left;
+    background-color: antiquewhite;
+}
+.hobbies h1{
+    text-align: center;
+    background-color: rgb(229, 150, 46);
+}
+.hobbies p{
+    padding:0px 10px;
+    font-size:25px;
+    text-align: left;
+    background-color: antiquewhite;
+}
+.interest h1{
+    text-align: center;
+    background-color: rgb(229, 150, 46);
+}
+.interest p{
+    padding:0px 10px;
+    font-size:25px;
+    text-align: left;
+    background-color: antiquewhite;
+}
+.education h1{
+    text-align: center;
+    font-size: 50px;
+}
+.container {
+    display:flex;
+    justify-content: flex-start;
+    border: black solid;
+    padding: 0px 25px;
+    margin:10px;
+}
+.school h1{
+    text-align:justify;
+    
+}
+.school p{
+    text-align:justify;
+    font-size: 20px;
+    
+}   
+.school_img{
+    padding:10px 20px;
+    margin:20px;
+} 
+.container {
+     display:flex;
+     border:black solid;
+     padding: 0px 25px;
+     margin:10px;
+     text-align:left;
+     font-size: 25px;
+     
+}
+.college_img{
+    padding:10px 70px;
+    margin-left: 130px;
+}
+.college h1{
+    text-align: justify;
+}
+.image-container {
+    position: relative;
+    width: 100vw;
+    height: 300px; /* Adjust the height as desired */
+    overflow: hidden;
+    }
+
+.coding_img {
+    position: relative;
+    text-align: center;
+    }
+
+.coding_img img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
+    }
+
+.coding_img h1 {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    margin: 0;
+    font-size: 70px;
+    color: black;
+  }
+  .second-container{
+    display:flex;
+    border:white solid;
+  }
+  .programming {
+    border:black solid;
+   
+    padding:10px 10px;
+    margin:10px;
+    box-sizing: border-box;
+    
+   
+  }
+  .programming h1{
+    text-align: start;
+    padding:0px;
+    margin:0px;
+  }
+
+  .programming ul li{
+    text-align: justify;
+    font-size: 30px;
+    
+   
+  }
+  .web {
+    border:black solid;
+   
+    padding:10px 10px;
+    margin:10px;
+    
+   
+  }
+  .web h1{
+    text-align: start;
+    padding:0px;
+    margin:0px;
+  }
+
+  .web ul li{
+    text-align: justify;
+    font-size: 30px;
+    
+   
+  }
+  .data {
+    border:black solid;
+   
+    padding:10px 10px;
+    margin:10px;
+    
+   
+  }
+  .data h1{
+    text-align: start;
+    padding:0px;
+    margin:0px;
+  }
+
+  .data ul li{
+    text-align: justify;
+    font-size: 30px;
+    }
+.projects{
+    padding:20px 10px;
+    margin:30px;
+}
+  .third-container{
+    display:flex;
+    flex-wrap:wrap;
+    border:none;
+
+  }  
+  .first{
+    border:black solid;
+    padding:10px 10px;
+    margin:20px;
+    background-color: antiquewhite;
+  }
+  .second{
+    border:black solid;
+    padding:10px 10px;
+    margin:20px;
+    background-color: antiquewhite;
+  }
+  .third{
+    border:black solid;
+    padding:10px 10px;
+    margin:20px;
+    background-color: antiquewhite;
+  }
+  .fourth{
+    border:black solid;
+    padding:10px 10px;
+    margin:20px;
+    background-color: antiquewhite;
+  }
+  .fifth{
+    border:black solid;
+    padding:10px 10px;
+    margin:20px;
+    background-color: antiquewhite;
+  }
+  .sixth{
+    border:black solid;
+    padding:10px 10px;
+    margin:20px;
+    background-color: antiquewhite;
+  }
+  .seventh{
+    border:black solid;
+    padding:20px 10px;
+    margin:20px;
+    background-color: antiquewhite;
+  }
+  .eight{
+    border:black solid;
+    padding:10px 10px;
+    margin:20px;
+    background-color: antiquewhite;
+  }
+  .ninth{
+    border:black solid;
+    padding:10px 10px;
+    margin:20px;
+    background-color: antiquewhite;
+    
+  }
+  .contact{
+    text-align: center;
+    padding :20px
+  }
+
+
+
+
+
+
+
+
